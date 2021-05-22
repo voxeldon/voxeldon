@@ -9,7 +9,7 @@ I currently specialize in creating content for the Minecraft Marketplace along w
 ## Skills
 #### Languages
 
-CS, TS, JS, JSON, HTML, Java, Python, & C++.
+CS, TS, JS, HTML, Java, Python, & C++.
 
 #### Resources
 - 3D Modeling
