@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, my name is Don!
 
-<!--
-**voxeldon/voxeldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the Owner & Lead Backend Developer for Voxel Lab Studios.
 
-Here are some ideas to get you started:
+## Bedrock Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently specialize in creating content for the Minecraft Marketplace along with public additions & developer tools.
+
+## Skills
+#### Languages
+
+CS, TS, JS, JSON, HTML, Java, Python, & C++.
+
+#### Resources
+- 3D Modeling
+- Key Art Compositions
+- Animation
+- Entity & Skin Textures
+- Audio Engineering & Sound Design
+- UI Design 
+#### Other
+- Game/Level World Building & Design
+- Project & Team Management
+## Teams Iv Worked With
+- Leadpro
+- Voldex
+- RedcrewMC
+- Voxel Lab Studios
+
